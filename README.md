@@ -1,1 +1,3 @@
 # kizuna
+
+some weeb project
